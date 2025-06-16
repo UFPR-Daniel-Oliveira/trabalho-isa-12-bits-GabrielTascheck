@@ -1,4 +1,4 @@
-# Descritivo Técnico da ISA (Instruction Set Architecture)
+# Descritivo Técnico da ISA 
 
 ## Arquitetura Geral
 *   **Tamanho da Palavra/Instrução:** 12 bits.
